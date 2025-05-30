@@ -23,7 +23,7 @@ A smart assistant that helps fantasy cricket users make data-driven decisions by
 | Programming      | Python                             |
 | Data Extraction  | Requests, BeautifulSoup, Selenium  |
 | ML Model         | Scikit-learn, Pandas, NumPy        |
-| Interface        | CLI / Chatbot (Optional GUI/Flask) |
+| Interface        | CLI / Chatbot  |
 | Data Source      | [cricketdata.org](https://cricketdata.org) |
 
 
