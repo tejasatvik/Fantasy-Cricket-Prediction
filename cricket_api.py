@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "e6b9d6e4-a157-4c9d-b2f1-ec453e9d8d4f"
+API_KEY = "YOUR_API_KEY"
 BASE_URL = "https://api.cricapi.com/v1"
 
 def get_current_matches():
